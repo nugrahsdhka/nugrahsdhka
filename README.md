@@ -40,5 +40,7 @@ My main focus is **backend development**, **system design**, and **event-driven 
 * **[Notification Worker Service](https://github.com/nugrahsdhka/notification-service-go)** — Event-driven email service using Go & RabbitMQ
 * **[Stunting & Hotspot Mapping System](https://rumahstuntingpangalengan.id/)** — Data visualization with Laravel, Chart.js, and Leaflet
 
-## 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/nugrahsdhka/)
+## 👤 Social
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nugrahsdhka/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhika-setia/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhikasetia06@gmail.com)
