@@ -43,19 +43,10 @@ My main focus is **backend development**, **system design**, and **event-driven 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nugrahsdhka\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nugrahsdhka\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Get in Touch
-
+!(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 * 💼 GitHub: [https://github.com/nugrahsdhka](https://github.com/nugrahsdhka)
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-
+  
 ---
 
 > *"Good engineering is not about adding more — it's about removing what shouldn't exist."*
