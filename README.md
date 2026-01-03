@@ -39,3 +39,6 @@ My main focus is **backend development**, **system design**, and **event-driven 
 * **[Job Portal API](https://github.com/nugrahsdhka/job-portal-api)** — Scalable REST API with clean architecture (Node.js + TypeScript)
 * **[Notification Worker Service](https://github.com/nugrahsdhka/notification-service-go)** — Event-driven email service using Go & RabbitMQ
 * **[Stunting & Hotspot Mapping System](https://rumahstuntingpangalengan.id/)** — Data visualization with Laravel, Chart.js, and Leaflet
+
+## 
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/nugrahsdhka/)
