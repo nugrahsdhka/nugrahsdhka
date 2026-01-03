@@ -40,13 +40,3 @@ My main focus is **backend development**, **system design**, and **event-driven 
 * **Job Portal API** — Scalable REST API with clean architecture (Node.js + TypeScript)
 * **Notification Worker Service** — Event-driven email service using Go & RabbitMQ
 * **Stunting & Hotspot Mapping System** — Data visualization with Laravel, Chart.js, and Leaflet
-
----
-
-## 📫 Get in Touch
-!(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-* 💼 GitHub: [https://github.com/nugrahsdhka](https://github.com/nugrahsdhka)
-  
----
-
-> *"Good engineering is not about adding more — it's about removing what shouldn't exist."*
