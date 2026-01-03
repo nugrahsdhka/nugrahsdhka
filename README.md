@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Dhika Setia Nugraha
+# 👋 Hi, I'm Dhika Setia.
 
 > **Computer Engineering Student | Backend & System Enthusiast**
 
 I’m a **Computer Engineering student** who enjoys breaking systems apart to understand how they work—and rebuilding them cleaner, faster, and more scalable.
 
-My main focus is **backend development**, **system design**, and **event-driven architectures**. I care about **performance**, **clean architecture**, and **engineering decisions that actually make sense**, not just trendy buzzwords.
+My main focus is **backend development**, **system design**, and **event-driven architectures**. I care about **performance**, **clean architecture**, and **engineering decisions that actually make sense**.
 
 ---
 
@@ -37,6 +37,6 @@ My main focus is **backend development**, **system design**, and **event-driven 
 
 ## 🚀 Featured Projects
 
-* **Job Portal API** — Scalable REST API with clean architecture (Node.js + TypeScript)
-* **Notification Worker Service** — Event-driven email service using Go & RabbitMQ
+* **[Job Portal API](https://github.com/nugrahsdhka/job-portal-api)** — Scalable REST API with clean architecture (Node.js + TypeScript)
+* **[Notification Worker Service](https://github.com/nugrahsdhka/notification-service-go)** — Event-driven email service using Go & RabbitMQ
 * **Stunting & Hotspot Mapping System** — Data visualization with Laravel, Chart.js, and Leaflet
